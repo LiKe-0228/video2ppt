@@ -1,0 +1,5 @@
+moviepy
+imagehash
+pillow
+python-pptx
+tqdm
